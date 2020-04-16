@@ -419,7 +419,8 @@ section {
 }
 
 .about .content p {
-  margin-bottom: 0;
+  margin-bottom: 20;
+  text-align: center;
 }
 
 .about .content .count-box {
@@ -467,7 +468,7 @@ section {
 }
 
 .about .image {
-  background: url("../img/me.jpg") center center no-repeat;
+  background: url("../img/telesc.jpg") center center no-repeat;
   background-size: cover;
   min-height: 400px;
 }
