@@ -550,6 +550,18 @@ section {
   margin-bottom: 10px;
 }
 
+/*.resume .section-title p {
+  font-size: 12.5px;
+  font-style: normal;
+}*/
+
+.resume .descargar-cv p {
+  font-size: 13.5px;
+  font-style: normal;
+  text-align: center;
+  text-decoration: underline;
+}
+
 .resume .resume-item h5 {
   font-size: 16px;
   background: #e4ebf3;
