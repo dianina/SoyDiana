@@ -415,6 +415,7 @@ section {
 .about .content h3 {
   font-weight: 500;
   font-size: 34px;
+  text-align: center;
   color: #2c4964;
 }
 
@@ -597,9 +598,6 @@ section {
   border: 2px solid #d43076;
 }
 
-.resume .resume-item::before pb-0 {
-  color: none;
-  }
 
 /*--------------------------------------------------------------
 # Services
