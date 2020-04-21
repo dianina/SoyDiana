@@ -550,6 +550,7 @@ section {
   margin-bottom: 10px;
 }
 
+
 /*.resume .section-title p {
   font-size: 12.5px;
   font-style: normal;
@@ -595,6 +596,10 @@ section {
   background: #fff;
   border: 2px solid #d43076;
 }
+
+.resume .resume-item::before pb-0 {
+  color: none;
+  }
 
 /*--------------------------------------------------------------
 # Services
