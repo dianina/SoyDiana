@@ -715,7 +715,7 @@ section {
 }
 
 .portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
-  color: #d43076;
+  color: #D5DBDB;
 }
 
 .portfolio #portfolio-flters li:last-child {
@@ -785,7 +785,7 @@ section {
 }
 
 .portfolio .portfolio-wrap .portfolio-links a:hover {
-  color: #e684ae;
+  color: #D5DBDB;
 }
 
 .portfolio .portfolio-wrap:hover::before {
